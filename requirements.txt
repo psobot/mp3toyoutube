@@ -1,0 +1,5 @@
+mutagen==1.21
+gdata==2.0.17
+PyYAML==3.10
+Flask==0.7.2
+requests==1.1.0
